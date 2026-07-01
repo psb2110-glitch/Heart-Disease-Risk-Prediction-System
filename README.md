@@ -99,7 +99,7 @@ Heart-Disease-Prediction-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction-System.git
+git clone https://github.com/psb2110-glitch/Heart-Disease-Prediction-System.git
 ```
 
 Move into the project directory
