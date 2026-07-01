@@ -1,0 +1,35 @@
+{
+  "best_model": "Gradient Boosting",
+  "accuracy": 0.819672131147541,
+  "precision": 0.7894736842105263,
+  "recall": 0.9090909090909091,
+  "f1_score": 0.8450704225352113,
+  "roc_auc": 0.8787878787878788,
+  "cv_f1_mean": 0.8311640012385663,
+  "cv_f1_std": 0.0422209584600664,
+  "confusion_matrix": [
+    [
+      20,
+      8
+    ],
+    [
+      3,
+      30
+    ]
+  ],
+  "features": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ]
+}
